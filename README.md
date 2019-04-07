@@ -1,6 +1,5 @@
 # test-md-anchors
 
-
 <!-- !toc -->
 
   * [Jack & Jim](#jack--jim)
@@ -8,7 +7,7 @@
   * [class~method](#classmethod)
   * [condense consecutive | = hyphens](#condense-consecutive---hyphens)
   * [create object (post /db/create)](#create-object-post-dbcreate)
-  * [does not remove escape codes instead removes % as in %3Cstatic%E3 %86 %3Cstatic%E3 coreappupevents %E2%86%92 object](#does-not-remove-escape-codes-instead-removes-%25-as-in-static--static-coreappupevents--object)
+  * [does not remove escape codes instead removes % as in %3Cstatic%E3 %86 %3Cstatic%E3 coreappupevents %E2%86%92 object](#does-not-remove-escape-codes-instead-removes--as-in-3cstatice3-86-3cstatice3-coreappupevents-e28692-object)
   * [func($event)](#funcevent)
   * [furnace "updateSlot" (oldItem, newItem)](#furnace-updateslot-olditem-newitem)
   * [Jack & Jill](#jack--jill)
@@ -19,13 +18,13 @@
   * [preserve consecutive | = hyphens](#preserve-consecutive---hyphens)
   * [proxyquire(request: String, stubs: Object)](#proxyquirerequest-string-stubs-object)
   * [remove {curly braces}{}](#remove-curly-braces)
-  * [remove escape codes %3Cstatic%E3 coreappupevents %E2%86%92 object](#remove-escape-codes-static-coreappupevents--object)
+  * [remove escape codes %3Cstatic%E3 coreappupevents %E2%86%92 object](#remove-escape-codes-3cstatice3-coreappupevents-e28692-object)
   * [remove exclamation point!](#remove-exclamation-point)
-  * [remove lt and gt <static>mycall](#remove-lt-and-gt-staticmycall)
+  * [remove lt and gt <static>mycall](#remove-lt-and-gt-mycall)
   * [remove ++++pluses+](#remove-pluses)
   * [remove ;;semi;colons](#remove-semicolons)
   * [remove = sign](#remove--sign)
-  * [remove special chars \`!@#%^&\*()-+=\[{\]}\|;:'",<.>/?](#remove-special-chars-%25%5E-)
+  * [remove special chars \`!@#%^&\*()-+=\[{\]}\|;:'",<.>/?](#remove-special-chars--)
   * [replace $ with d and ~ with t](#replace--with-d-and--with-t)
   * [replace – or —](#replace--or-)
   * [trailing *](#trailing-)
@@ -50,6 +49,9 @@
   * [Modu📦les😀](#modules)
   * [😀 Modu📦les](#-modules)
   * [Mo📦du📦les](#modules-1)
+  * [1. One](#1-one)
+  * [2.1\. Two One](#21-two-one)
+  * [1.2.3.4.5.6\. 1 2 3 4 5 6](#123456-1-2-3-4-5-6)
   * [Same Heading](#same-heading)
   * [Same Heading](#same-heading-1)
   * [Same Heading](#same-heading-2)
@@ -183,6 +185,16 @@ https://www.unicode.org/emoji/charts/full-emoji-list.html
 ## 😀 Modu📦les
 
 ## Mo📦du📦les
+
+----
+
+**Numbered headings**
+
+## 1. One
+
+## 2.1\. Two One
+
+## 1.2.3.4.5.6\. 1 2 3 4 5 6
 
 ----
 
